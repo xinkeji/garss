@@ -1,5 +1,10 @@
 {
     "garssInfo": [
+          {
+            "description": "茶馆在花",
+            "title": "树莓派家用云服务器",
+            "xmlUrl": "https://rss.g0f.cn/telegram/channel/ZaihuaChat"
+        },
         {
             "description": "不死鸟:专注分享优质资源",
             "title": "不死鸟",
