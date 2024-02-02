@@ -1,1 +1,1 @@
-* [个人网站](https://dh.g0f.cn/)
+* [果粉RSS](README)
