@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <head>
-<title>嘎!RSS</title>
+<title>果粉圈RSS</title>
 </head>
 <body>
-      <outline text="不死鸟" title="不死鸟" type="rss"  
+  <outline text="4K影视屋" title="4K影视屋" type="rss"  
+            xmlUrl="https://rsshub.app/telegram/channel/dianying4K" htmlUrl="https://rsshub.app/telegram/channel/dianying4K"/>
+<outline text="4K影视屋" title="云盘" type="rss"  
+            xmlUrl="https://rsshub.app/telegram/channel/YunPanPan" htmlUrl="https://rsshub.app/telegram/channel/YunPanPan"/>
+
+    <outline text="不死鸟" title="不死鸟" type="rss"  
             xmlUrl="https://iao.su/feed" htmlUrl="https://iao.su/feed"/>
       <outline text="精品MAC应用分享" title="精品MAC应用分享" type="rss"  
             xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/feed"/>
@@ -442,30 +447,7 @@
             xmlUrl="https://feeds.feedburner.com/bookfere" htmlUrl="https://feeds.feedburner.com/bookfere"/>
       <outline text="kindle吧" title="kindle吧" type="rss"  
             xmlUrl="https://www.kindle8.cc/feed" htmlUrl="https://www.kindle8.cc/feed"/>
-      <outline text="起点中文网" title="起点中文网" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/qidian/free" htmlUrl="https://rsshub.v2fy.com/qidian/free"/>
-      <outline text="4K影视屋" title="4K影视屋" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/dianying4K" htmlUrl="https://rsshub.v2fy.com/telegram/channel/dianying4K"/>
-      <outline text="编程笑话" title="编程笑话" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/programmerjokes" htmlUrl="https://rsshub.v2fy.com/telegram/channel/programmerjokes"/>
-      <outline text="薅羊毛" title="薅羊毛" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/yangmaoshare" htmlUrl="https://rsshub.v2fy.com/telegram/channel/yangmaoshare"/>
-      <outline text="竹新社" title="竹新社" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/tnews365" htmlUrl="https://rsshub.v2fy.com/telegram/channel/tnews365"/>
-      <outline text="书和读书" title="书和读书" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/GoReading" htmlUrl="https://rsshub.v2fy.com/telegram/channel/GoReading"/>
-      <outline text="阿里云盘资源分享" title="阿里云盘资源分享" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/YunPanPan" htmlUrl="https://rsshub.v2fy.com/telegram/channel/YunPanPan"/>
-      <outline text="Google Drive" title="Google Drive" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/YunPanPan" htmlUrl="https://rsshub.v2fy.com/telegram/channel/YunPanPan"/>
-      <outline text="扫地僧笔记" title="扫地僧笔记" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/lover_links" htmlUrl="https://rsshub.v2fy.com/telegram/channel/lover_links"/>
-      <outline text="树莓派家用云服务器" title="树莓派家用云服务器" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi" htmlUrl="https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi"/>
-      <outline text="快乐星球" title="快乐星球" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/botmzt" htmlUrl="https://rsshub.v2fy.com/telegram/channel/botmzt"/>
-      <outline text="Newlearnerの自留地" title="Newlearnerの自留地" type="rss"  
-            xmlUrl="https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel" htmlUrl="https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel"/>
+
 
 </body>
 </opml>
