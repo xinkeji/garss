@@ -1,1 +1,1 @@
-* * [个人网站](https://dh.g0f.cn/)
+* [个人网站](https://dh.g0f.cn/)
