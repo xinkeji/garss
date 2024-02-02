@@ -268,8 +268,3 @@
 | TG010 | 快乐星球 | 美女图片  | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/botmzt) |
 | TG011 | Newlearnerの自留地 | 不定期推送 IT 相关资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/telegram/channel/NewlearnerChannel) |
 
-
-
-## 广告位招租
-
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
