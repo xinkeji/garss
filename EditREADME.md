@@ -20,6 +20,7 @@
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
+| <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  果粉圈 | 果粉集聚之地 | {{latest_content}} |  [订阅地址](https://g0f.cn/rss.xml) | 
 | <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  不死鸟 | 不死鸟:专注分享优质资源 | {{latest_content}} |  [订阅地址](https://iao.su/feed) | 
 | <div id="S002" style="text-align: center;"><img src="./_media/favicon/S002.png" width="30px" style="width:30px;height: auto;"/><br><span>S002</span></div> | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  {{latest_content}} | [订阅地址](https://xclient.info/feed) | 
 | <div id="S003" style="text-align: center;"><img src="./_media/favicon/S003.png" width="30px" style="width:30px;height: auto;"/><br><span>S003</span></div> | 老殁 | 免费推荐优秀软件 |  {{latest_content}} | [订阅地址](https://www.mpyit.com/feed) |
@@ -270,6 +271,3 @@
 
 
 
-## 广告位招租
-
-![广告位招租](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/zhaoolee-link.png)
