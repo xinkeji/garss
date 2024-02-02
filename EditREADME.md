@@ -1,7 +1,7 @@
 # Github Actions Rss (garss, 果粉RSS! 已收集{{rss_num}}个RSS源, 生成时间: {{ga_rss_datetime}})
 
 
-![](./_media/beijing.jpg)
+![](./_media/ga-rss.png)
 
 
 ## 主要功能
