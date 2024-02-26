@@ -1,7 +1,7 @@
-# Github Actions Rss (garss, 果粉RSS! 已收集2个RSS源, 生成时间: 2024-02-26 18:07:54)
+# Github Actions Rss (garss, 果粉RSS! 已收集2个RSS源, 生成时间: 2024-02-26 18:09:41)
 
+![](https://cdn.jsdelivr.net/gh/xinkeji/garss/_media/ga-rss.png)
 
-![](https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/ga-rss.png)
 
 
 ## 主要功能
@@ -9,7 +9,7 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2024-02-26 18:07:54 保质期24小时</h2>
+<h2>新蒸熟0个小蛋糕🍰(文章) 生产时间 2024-02-26 18:09:41 保质期24小时</h2>
 
 
 
