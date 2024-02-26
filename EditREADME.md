@@ -20,7 +20,7 @@
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
 <h2 id="软件工具">软件工具</h2> |  |   |  |
-| <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  v2ex | 创意 | {{latest_content}} |  [订阅地址]([https://g0f.cn/rss.xml](https://www.v2ex.com/feed/tab/creative.xml)) | 
+| <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  v2ex | 创意 | {{latest_content}} |  [订阅地址](https://www.v2ex.com/feed/tab/creative.xml)) | 
 | <div id="S001" style="text-align: center;"><img src="./_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> |  果粉圈 | 果粉集聚之地 | {{latest_content}} |  [订阅地址](https://g0f.cn/rss.xml) | 
 
 
