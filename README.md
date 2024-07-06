@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 果粉RSS! 已收集2个RSS源, 生成时间: 2024-07-06 06:01:27)
+# Github Actions Rss (garss, 果粉RSS! 已收集2个RSS源, 生成时间: 2024-07-07 06:00:54)
 
 ![](https://cdn.jsdelivr.net/gh/xinkeji/garss/_media/ga-rss.png)
 
@@ -9,9 +9,9 @@
 2. 利用Github Actions, 搜集全部RSS的头版头条新闻标题和超链接, 并自动更新到首页,当天最新发布的文章会出现🌈 标志
 
 邮件内容区开始>
-<h2>新蒸熟10个小蛋糕🍰(文章) 生产时间 2024-07-06 06:01:27 保质期24小时</h2>
+<h2>新蒸熟6个小蛋糕🍰(文章) 生产时间 2024-07-07 06:00:54 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1054983#reply69' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 在搜索结果中屏蔽 CSDN。。。 | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055215#reply1' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 有没有介绍常见中餐烹饪难度评分的（从低开始） | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055125#reply16' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 🎁 [送码] Memoir：一款可以自动整理手机照片的应用 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055177#reply1' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ ASCII 代码截图？≽^•⩊•^≼ | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055079#reply9' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 免费 AI 老照片视频生成器-让老照片动起来 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055067#reply8' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 字幕截图生成器 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055124#reply0' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 截图字幕生成器 - 新手村版 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1054999#reply10' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 有没有用着不错的三脚架推荐 | 第8篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055001#reply10' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 我设计了一个 MacOS 的极简暗黑主题，不知道有没有 V 友感兴趣的 | 第9篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055058#reply2' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 做了一个网站汇集了免费 AI API 及其调用限制汇总 | 第10篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055381#reply2' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 用 c 手撸一个 Java 的 decompiler | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055373#reply1' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 更新！ AI 绘画提示词一键翻译/超多 checkpoint 模型和 loras/AI 图片理解/FOFA 空间搜索调用 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055324#reply4' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 写了一个纠正英语口语发音的脚本分享 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055322#reply0' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 写了一个标签页助手 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.v2ex.com/t/1055281#reply12' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 写了一个车牌加密包，把任意字符串都能变成汽车牌照的样子。 | 第5篇</a></div><div style='line-height:3;' ><a href='https://www.v2ex.com/t/1055264#reply4' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 做了一个免费的 AI 婚礼演讲小工具 | 第6篇</a></div>
 
 <邮件内容区结束
 
@@ -20,7 +20,7 @@
 | 编号 | 名称 | 描述 | RSS | 最新内容 |
 | --- | --- | --- | --- | --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |  |
-| <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> | v2ex | 创意 | [‣ 小爱音箱播放自定义音乐 \| 2023-10-14](https://www.v2ex.com/t/982027#reply110)<br/>[‣ 在搜索结果中屏蔽 CSDN。。。 \| 2023-10-14](https://www.v2ex.com/t/1054983#reply69) | [订阅地址](https://www.v2ex.com/feed/tab/creative.xml) |
+| <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> | v2ex | 创意 | [‣ 用 c 手撸一个 Java 的 decompiler 🌈 2024-07-06](https://www.v2ex.com/t/1055381#reply2)<br/>[‣ 更新！ AI 绘画提示词一键翻译/超多 checkpoint 模型和 loras/AI 图片理解/FOFA 空间搜索调用 🌈 2024-07-06](https://www.v2ex.com/t/1055373#reply1) | [订阅地址](https://www.v2ex.com/feed/tab/creative.xml) |
 | <div id="S001" style="text-align: center;"><img src="https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/favicon/S001.png" width="30px" style="width:30px;height: auto;"/><br><span>S001</span></div> | 果粉圈 | 果粉集聚之地 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://g0f.cn) | [订阅地址](https://g0f.cn/rss.xml) |
 
 
